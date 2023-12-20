@@ -1,2 +1,2 @@
-# Chessboard-WebDevelopmentBootcamp
+# Chessboard
 CSS Grid training
